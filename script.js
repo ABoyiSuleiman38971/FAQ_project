@@ -67,26 +67,5 @@ function toggleAnswer4() {
   }
 }
 
-    //Question 2
-  // if (statement2.classList.contains('hidden')) {
-  //     statement2.classList.remove('hidden');
-  //     iconPlus.classList.add('hidden');
-  //     iconMinus.classList.remove('hidden');
-  // } else {
-  //     statement2.classList.add('hidden');
-  //     iconPlus.classList.remove('hidden');
-  //     iconMinus.classList.add('hidden');
-  // }
-
-  // Question 3
-//   if (statement3.classList.contains('hidden')) {
-//       statement3.classList.remove('hidden');
-//       iconPlus.classList.add('hidden');
-//       iconMinus.classList.remove('hidden');
-//   } else {
-//       statement3.classList.add('hidden');
-//       iconPlus.classList.remove('hidden');
-//       iconMinus.classList.add('hidden');
-//   }
-// }
+  
 
